@@ -2,5 +2,6 @@
 
 
 
-![alt text](temperatura.png)
+![alt text](temperaturas.png)
+
 
